@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parth Chaudhary
-- 👀 I’m interested in Blockchain technology and web3 world
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Web3 technologies
+- 👀 I’m interested in shaping the web3 world through blockchain technology.
+- 🌱 I’m currently learning about the intricate logic of learning models.
+- 💞️ I’m always looking to collaborate on web3 community projects.
 - 📫 Reach out to me at https://www.linkedin.com/in/parth-chaudhary-b5220a257/
 
 <!---
