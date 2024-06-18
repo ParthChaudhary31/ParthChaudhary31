@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTViOGkxcGZsM3R0bGd6cmNxaDgxZnhlZnpqY3QycTVlNGlyZjJwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/driiYR9DTT2Vf7etWD/giphy.webp" width="100"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/parth-chaudhary-b5220a257">
+  <a href="https://www.linkedin.com/in/parth-chaudhary-b5220a257">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.antiersolutions.com/">
