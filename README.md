@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTViOGkxcGZsM3R0bGd6cmNxaDgxZnhlZnpqY3QycTVlNGlyZjJwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/driiYR9DTT2Vf7etWD/giphy.webp" width="100"/>
+</div>
+
 - 👋 Hi, I’m Parth Chaudhary
 - 👀 I’m interested in shaping the web3 world through blockchain technology.
 - 🌱 I’m currently learning about the intricate logic of learning models.
