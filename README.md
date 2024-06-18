@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/Antier%20Solutions-red?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Antier Badge"/>
   </a>
   <a href="https://x.com/P4rthChaudhary">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="x Badge"/>
   </a>
     <h1>
-        Welcome to my profile !
+        Welcome to my profile!
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
     <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 - 👋 Hi, I’m Parth,
-- 💼 I work at Antier solutions.
+- 💼 I work at Antier Solutions.
 - 👀 I’m interested in shaping the web3 world through blockchain technology.
 - 🌱 I’m currently learning about the intricate logic of learning models.
 - 💞️ I’m always looking to collaborate on web3 community projects.
