@@ -22,7 +22,7 @@
 
 - 👋 Hi, I’m Parth,
 - 💼 I work at Antier Solutions.
-- 👀 I’m interested in shaping the web3 world through blockchain technology.
+- 👀 I’m interested in shaping the web3 ecosystem through blockchain technology.
 - 🌱 I’m currently learning about the intricate logic of learning models.
 - 💞️ I’m always looking to collaborate on web3 community projects.
 - 📫 Reach out to me at https://www.linkedin.com/in/parth-chaudhary-b5220a257/
