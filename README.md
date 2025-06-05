@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/parth-chaudhary-b5220a257">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://www.antiersolutions.com/](https://antier.com/)">
+  <a href="https://antier.com/">
     <img src="https://img.shields.io/badge/Antier%20Solutions-red?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Antier Badge"/>
   </a>
   <a href="https://x.com/P4rthChaudhary">
