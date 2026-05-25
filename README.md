@@ -181,7 +181,7 @@ const parth: SolutionArchitect = {
 <div align="center">
 
 <a href="https://github.com/ParthChaudhary31">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ParthChaudhary31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParthChaudhary31&theme=github_dark" />
 </a>
 <a href="https://github.com/ParthChaudhary31">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ParthChaudhary31&theme=tokyonight&hide_border=true&background=0F0F23&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
@@ -190,7 +190,10 @@ const parth: SolutionArchitect = {
 <br />
 
 <a href="https://github.com/ParthChaudhary31">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthChaudhary31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=00D9FF&text_color=ffffff&langs_count=10" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParthChaudhary31&theme=github_dark" />
+</a>
+<a href="https://github.com/ParthChaudhary31">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ParthChaudhary31&theme=github_dark&utcOffset=5.5" />
 </a>
 
 </div>
